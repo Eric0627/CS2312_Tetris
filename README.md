@@ -1,2 +1,2 @@
-# CS2312_Tetris
-Tetris game programmed by java
+# Tetris_Game
+Tetris game programmed by Java and displayed by Java GUI
